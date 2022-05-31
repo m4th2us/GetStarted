@@ -8,10 +8,10 @@ e se atualiza cotidianamente,
 conforme avanço no Guia de Quick Start!
 ---
 
-*Repositório, Branch, Commints e Pull Request*
+*Repositório, Branch, Commit e Pull Request*
 ---
 
-repositório
+### repositório
 - [x] *Escreva um nome* **hello-word**
 
 - [x] [Folha Informativa/Markdown](https://www.markdownguide.org/cheat-sheet/)
@@ -27,7 +27,7 @@ e compartilhamento de informações!
 - [x] *Pressione* **Create repository**
 ---
 
-branch
+### branch
 > é uma cópia do projeto .main
 e serve para versionar o código
 e experimentar alterações
@@ -39,7 +39,22 @@ antes do commint com o *Main*.
 - [x] *Clique em* **Create branch: readme-edits**
 ---
 
+### commit
+> as mensagens de Commit são históricos das alterações capturadas
+que permite visualizar e interpretar as mudanças entre o repositório principal
+e em seus branchs.
 
-## *Instalando GitHub CLI - Quick Start - Configurar Git* 
+- [x] *Abra a edição do branch* **readme-edits**
+- [x] *Realize edições*
+- [x] *Escreva* **an optional extended description*
+- [x] *Clique em* **Commit changes**
+
+### pull request
+> mostram as diferenças de conteúdo dos branches
+---
+
+- [x] 
+
+*Instalando GitHub CLI - Quick Start - Configurar Git* 
 ---
 >
